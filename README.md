@@ -20,7 +20,7 @@ Loan accepted: If the company approves the loan, there are 3 possible scenarios 
 * [Business Overview](#Business-Objective)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Exploratory Data Analysis](#Steps)
 
 #Business-Objective
 
@@ -35,7 +35,42 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 
 > #dataset : loan.csv
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+- pandas     - Version: 1.2.4
+- numpy      - Version: 1.20.1
+- pandasql   - Version: 0.7.3
+- matplotlib - Version: 3.3.4
+- seaborn    - Version: 0.11.1
+
+# Exploratory Data Analysis
+
+## Steps
+
+- Data Cleaning Missing Data Teatment
+- Data Cleaning Removing Customer Behavior Variables
+- Data Cleaning - Standardizing Values, Units, Date & Text
+- Data Cleaning - Outlier Analysis
+- Dervied Metrics & Binnning
+- Univariate Analysis
+- - Continous variable
+- - Categorical variable
+- Segmented Univariate Analysis
+- Bivariate Analysis
+- - Continuous vs Continuous
+- - Continuous vs Categorical
+- - Categorical vs Categorical
+- MultiVariate Analysis & Correlation Matrix
+- Summary Statistics
+- Missing Data Treatment Analysis Report
+- Univariate Data Analysis Report
+- Bivariate Data Analysis Report
+- Final Conclusion
+- Important Points and Assumptions
+- Considering values greater than Q3+1.5IQR(Upper Bound) & Q1-1.5IQR(Lower Bound) for Outliers treatment provided we got approval from Business
+- Loan_status Chargedoff Conversion - 0 & FullyPaid Conversion -1
+- Custom functions created for visualisation for code readibility
+- Graph used : Power Law Distribution , Barchart - Horizontal & Vertical , piechart , boxplot , - - -scatterplot, barplot ,catplot, violinplot , heatmap , countplot
+- used pivot table & pandasql for Data Analysis
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -43,25 +78,10 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@shashank1989] - feel free to contact me!
 
 
 <!-- Optional -->
