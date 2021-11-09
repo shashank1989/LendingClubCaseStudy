@@ -73,10 +73,14 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 - used pivot table & pandasql for Data Analysis
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan Applications must be verified
+- Lower the Grades higher the chances of getting default , Before approving loans to lower grades it should be thoroughly investigated
+- small_business loans are most likely to be defaulted lending institution should reduce the no of loans issuing to this category
+- Higher the loan amount , interest , installment and debit to investment ratio higher the chances of getting default  , Lending club should pay attention to these attributed before allocating the loans
+- Lending club should keep a check on high revolving credit utilisation before approving the loan
+- Lending club should try to try reduce the term higher the term higher the chances of getting default
+- Public record borrower are most likely to bankrupt lending club should investigate before approving loan that there are no public records for borrower
+- Lending club should reduce the no of loans to borrowers with home type Mortgage with higher loan amount as their chances of getting defaulted is more
 
 
 
