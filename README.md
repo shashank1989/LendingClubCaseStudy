@@ -19,8 +19,8 @@ Loan accepted: If the company approves the loan, there are 3 possible scenarios 
 ## Table of Contents
 * [Business Overview](#Business-Objective)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Exploratory Data Analysis](#Steps)
+* [Conclusions](#conclusions)
 
 #Business-Objective
 
