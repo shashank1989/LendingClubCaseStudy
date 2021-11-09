@@ -17,18 +17,19 @@ Loan accepted: If the company approves the loan, there are 3 possible scenarios 
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Business Overiew](#Business_Problem)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Business_Problem
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+- - The company can utilise this knowledge for its portfolio and risk assessment.
+- - If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+- - Our aim is to identify the loan application which can be defaulted or deliquanted which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate
+
+> #dataset : loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
