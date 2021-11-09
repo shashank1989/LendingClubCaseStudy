@@ -22,7 +22,7 @@ Loan accepted: If the company approves the loan, there are 3 possible scenarios 
 * [Exploratory Data Analysis](#Steps)
 * [Conclusions](#conclusions)
 
-#Business-Objective
+## Business-Objective
 
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
